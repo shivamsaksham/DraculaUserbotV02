@@ -66,7 +66,7 @@ async def main():
     
     # Start both clients
     await client.start()
-    await botClient.start(bot_token="8032102060:AAHZwcw7gv8OKSZrAnxUYG-Nd8VQi6UI7Rw")
+    await botClient.start(bot_token="8032102060:AAHZwcw7gv8OKSZrAnxUYG-Nd8VQi6UI7Rw") # Add Your Own Bot Token
     
     print("Started - Listening for messages...")
     
